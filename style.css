@@ -11,6 +11,18 @@
     height:15em;
     width: 30em;
 }
-.card{
-    margin: 6px;
+.job-title{
+    text-decoration: underline darkgreen;
+}
+#about-name{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 1em;
+}
+.card-bg{
+    width: 100%;
+    display: flex;
+}
+.icons{
+    font-size:4em;
 }
